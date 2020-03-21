@@ -1,13 +1,17 @@
-import React, { Component } from "react";
-import { Button }           from "components";
+import React, { Component }  from "react";
+import {
+    Container,
+    Button,
+    Title,
+} from "components";
 
 class Login extends Component {
     render() {
         return (
-            <div className="container login">
-                <h1>Login Page</h1>
+            <Container background="#333">
+                <Title>Login Page</Title>
                 <Button link="/about">Go to about page</Button>
-            </div>
+            </Container>
         );
     }
 }

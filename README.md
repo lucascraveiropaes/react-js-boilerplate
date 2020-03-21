@@ -32,8 +32,8 @@ npm start
 
 ## Dependencies
 
-* [Axios](https://github.com/axios/axios/) - A Container for HTTP requests 
-* [Node SASS](https://github.com/sass/node-sass) - CSS PreProcessor
+* [Axios](https://github.com/axios/axios/) - A Container for HTTP requests
+* [Styled Components](https://styled-components.com/) - A new way to use CSS in modern JavaScript
 * [Redux](https://github.com/reduxjs/redux) - A State Container for JS
 * [React Redux](https://github.com/reduxjs/react-redux) - Official react bindings for Redux
 * [Redux Persist](https://github.com/rt2zz/redux-persist) - Persist and rehydrate the redux store
